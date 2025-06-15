@@ -9,8 +9,3 @@ namespace CalculadoraSQIA.Tests
         }
     }
 }
-/*
-Install - Package xunit
-Install-Package xunit.runner.visualstudio
-Install-Package Moq -Version 4.18.4
-*/
